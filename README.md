@@ -1,2 +1,2 @@
 # GideonAtBSU.github.io
-![An image of Gideon Hammond](/portrait.jpg)
+<img src="/portrait.jpg" alt="An image of Gideon Hammond" width="300">
